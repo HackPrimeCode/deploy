@@ -1,0 +1,9 @@
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/HackPrimeCode/Frontend
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/HackPrimeCode/Backend
+[submodule "ML"]
+	path = ML
+	url = https://github.com/HackPrimeCode/ML
